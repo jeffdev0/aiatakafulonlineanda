@@ -22,4 +22,5 @@ After migrated to github
 </script>
 
 
-8. replace docs.google.com/forms/d/*** to jotform (./form.hmtl)
+8. replace docs.google.com/forms/d/*** to jotform (/form.hmtl)
+9. replace api.whatsapp****** to /wa.html
