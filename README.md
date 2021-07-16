@@ -5,10 +5,11 @@ After migrated to github
 1. fixs the dev-pantheonsite url, src and href replace to ./
 2. replace the image ***x***.jpg to .jpg
 3. replace the image ***x***.png to .png
-4. replace .css?ver=******* to .css
-5. replace .js?ver=******* to .js
+4. remove srcset img and png
+5. replace .css?ver=******* to .css
+6. replace .js?ver=******* to .js
 
-6. add script 
+7. add script 
 
 <!-- Global site tag (gtag.js) - Google Ads: 335561374 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-335561374"></script>
@@ -21,4 +22,4 @@ After migrated to github
 </script>
 
 
-7. replace docs.google.com/forms/d/*** to jotform (./form.hmtl)
+8. replace docs.google.com/forms/d/*** to jotform (./form.hmtl)
