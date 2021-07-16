@@ -24,4 +24,4 @@ After migrated to github
 
 8. replace docs.google.com/forms/d/*** to jotform (/form.hmtl)
 9. replace api.whatsapp****** to /wa.html
-10. update file https://dev-designaimcom.pantheonsite.io/wp-content/uploads/elementor/css/post-5.css?ver=1626422356 ( button quotation style)
+10. update file https://dev-designaimcom.pantheonsite.io/wp-content/uploads/elementor/css/post-5.css?ver=1626422356 (button quotation style)
