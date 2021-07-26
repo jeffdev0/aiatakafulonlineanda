@@ -3,6 +3,9 @@
 After migrated to github
 
 1. fixs the dev-pantheonsite url, src and href replace to ./
+  - src
+  - href
+  - https:\/\/dev-designaimcom.pantheonsite.io\/
 2. replace the image ***x***.jpg to .jpg
 3. replace the image ***x***.png to .png
 4. remove srcset img and png
